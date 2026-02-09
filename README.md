@@ -7,7 +7,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+MongoDB+%7C+Java+%7C+Spring;Building+Real+World+Projects+%F0%9F%94%A5;Open+To+Internships+%26+Opportunities+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+💻;React+|+Node.js+|+MongoDB+|+Java+|+Spring;Building+Real+World+Projects+🔥;Open+To+Internships+%26+Opportunities+🚀" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 
 ---
 
-## 🛠 Tech Stack (My Tools ⚔️)
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,java,spring,python,git,github,vscode" />
@@ -43,7 +43,7 @@
 
 ---
 
-## 🚀 Featured Projects (Recruiter FOMO Section 🔥)
+## 🚀 Featured Projects
 
 ### 🌟 UniHub (Ongoing)
 📌 Student Collaboration & Resource Sharing Platform  
@@ -79,7 +79,7 @@
 
 ---
 
-## 🔥 GitHub Stats (Clean + Professional)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mr-shabrish&show_icons=true&theme=radical&hide_border=true" height="170"/>
@@ -95,7 +95,7 @@
 
 ---
 
-## 🐍 Snake Effect (Looks Insane 🔥)
+## 🐍 Snake Animation
 
 <p align="center">
   <img src="https://github.com/Mr-shabrish/Mr-shabrish/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -103,10 +103,14 @@
 
 ---
 
-## 💡 Random Dev Quote (Premium Touch ✨)
+## 💬 Favorite Dialogue
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <b>"Okkasaari commit ayithe naa maata nene vinanu."</b> 🔥  
+</p>
+
+<p align="center">
+  — <b>Mahesh Babu</b> ⭐
 </p>
 
 ---
@@ -119,7 +123,7 @@
 
 ---
 
-## 🤝 Open to Opportunities 🚀
+## 🤝 Open to Opportunities
 
 💼 I'm open to:
 - Full Stack Internships
