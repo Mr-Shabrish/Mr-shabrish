@@ -7,7 +7,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+💻;React+|+Node.js+|+MongoDB+|+Java+|+Spring;Building+Real+World+Projects+🔥;Open+To+Internships+%26+Opportunities+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+💻;React+|+Node.js+|+MongoDB+|+Java+|+Spring;Building+Scalable+Real+World+Applications+🔥;Open+To+Internships+%26+Opportunities+🚀" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 - 🌱 Currently learning **Spring Boot**
 - 💬 Ask me about **React, Node.js, MongoDB, Java**
 - 📫 Reach me at: **mrshabrish@gmail.com**
-- ⚡ Fun fact: **I am also a YouTuber 🎥**
+- ⚡ Fun fact: **I create content & teach tech on YouTube 🎥**
 - 🎯 Goal: **Get into a top product-based company 🚀**
 
 ---
@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="mailto:mrshabrish@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/shabrish goust"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/shabrish-goust"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/ig_subbu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
@@ -38,15 +38,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,java,spring,python,git,github,vscode&theme=dark" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mr-shabrish&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,java,spring,python,aws,git,github,vscode&theme=dark" />
 </p>
 
 ---
@@ -65,25 +57,39 @@
 
 ---
 
-### 💼 Job & Internship Portal
-📌 Full Stack platform connecting students & recruiters  
-⚡ Tech: MERN Stack | JWT | Cloudinary  
+### 💼 JobHunt (Internship & Job Portal)
+📌 Full Stack internship & job portal connecting students and recruiters  
+⚡ Tech: MERN Stack | JWT | Cloudinary | Socket.io | TailwindCSS  
 ✅ Features:
-- Recruiter Job Posting Dashboard
-- Student Resume Upload
-- Apply & Track Applications
-- Role-based Authorization
+- Secure JWT Authentication & Role-based Authorization  
+- Recruiters can post jobs and manage applications  
+- Students can upload resumes, apply for jobs & manage profiles  
+- Cloudinary integration for resumes, logos & profile images  
+- Real-time notifications using Socket.io  
+- REST APIs for smooth frontend-backend communication  
 
 ---
 
 ### 🏥 MediTrack (Hospital Management System)
-📌 Java-based hospital workflow management  
+📌 Java-based hospital workflow automation system  
 ⚡ Tech: Java | MySQL  
 ✅ Features:
-- Patient registration
-- Appointment scheduling
-- Billing system
-- Doctor management
+- Patient registration & record management  
+- Doctor management  
+- Appointment scheduling  
+- Billing and payment tracking  
+- Improved workflow efficiency with structured data handling  
+
+---
+
+### 🏠 Home Inventory Management Application
+📌 Web-based household inventory tracking system  
+⚡ Tech: Python | JavaScript | AWS  
+✅ Features:
+- Add, update, delete, and categorize products  
+- Track inventory with efficient classification system  
+- AWS cloud storage integration for secure data management  
+- Improved data handling for better processing and retrieval  
 
 ---
 
@@ -152,9 +158,9 @@
 ## 🤝 Open to Opportunities
 
 💼 I'm open to:
-- Full Stack Internships
-- Frontend Developer Roles
-- Backend Developer Roles
+- Full Stack Internships  
+- Frontend Developer Roles  
+- Backend Developer Roles  
 
 📩 Email: **mrshabrish@gmail.com**
 
