@@ -38,7 +38,15 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,java,spring,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,java,spring,python,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mr-shabrish&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -95,10 +103,28 @@
 
 ---
 
-## 🐍 Snake Animation
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/Mr-shabrish/Mr-shabrish/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-shabrish&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🧾 GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-shabrish&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mr-shabrish&theme=radical" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mr-shabrish&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mr-shabrish&theme=radical" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mr-shabrish&theme=radical&utcOffset=5.5" height="180"/>
 </p>
 
 ---
@@ -131,6 +157,16 @@
 - Backend Developer Roles
 
 📩 Email: **mrshabrish@gmail.com**
+
+---
+
+## ❤️ Support Me
+
+<p align="center">
+  <a href="https://buymeacoffee.com/">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
