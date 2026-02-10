@@ -16,7 +16,7 @@
 
 <img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔭 Currently working on **UniHub**
+- 🔭 Currently working on **AI-Powered RAG LLM System**
 - 🌱 Currently learning **Spring Boot**
 - 💬 Ask me about **React, Node.js, MongoDB, Java**
 - 📫 Reach me at: **mrshabrish@gmail.com**
@@ -45,7 +45,21 @@
 
 ## 🚀 Featured Projects
 
-### 🌟 UniHub (Ongoing)
+### 🤖 AI-Powered RAG LLM System (Current Working Project 🚀)
+📌 AI-based system that answers questions from PDFs/Docs using Retrieval-Augmented Generation (RAG)  
+⚡ Tech: Python | LangChain | Vector DB (FAISS/Pinecone) | OpenAI/Gemini | FastAPI | MongoDB  
+✅ Features:
+- Upload PDFs, Notes, and Documents
+- Extract text and chunk documents automatically
+- Store embeddings in Vector Database
+- Smart Question Answering using RAG pipeline
+- Source-based answers (citations from document)
+- Chat history & memory support
+- FastAPI backend for scalable API integration
+
+---
+
+### 🌟 UniHub
 📌 Student Collaboration & Resource Sharing Platform  
 ⚡ Tech: React | Node.js | MongoDB | JWT | Cloudinary  
 ✅ Features:
